@@ -1,10 +1,13 @@
 @font-face{
   font-family: "exo";
-  src: url('Exo2-VariableFont_wght.ttf')
+  src: url('Exo2-VariableFont_wght.ttf');
 }
 
 body{
   background-color: #ded0a2;
+}
+hr{
+  color: #000000;
 }
 h1{
   color: #000000;
@@ -12,21 +15,21 @@ h1{
 }
 h2{
   color: #000000;
-  font: icon;
+  font-family: "exo";
 }
 h3{
   color: #000000;
-  font: icon;
+  font-family: "exo";
 }
 h4{
   color: #000000;
-  font: icon;
+  font-family: "exo";
 }
 h5{
-  color: #000000,
-  font: icon;
+  color: #000000;
+  font-family: "exo";
 }
 p{
-  color: #000000,
-  font: icon,
+  color: #000000;
+  font-family: "exo";
 }
